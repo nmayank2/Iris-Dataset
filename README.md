@@ -1,10 +1,5 @@
 
-## University of Petroleum and Energy Studies Artificial Intelligence Group
-
-[![Build Status](https://travis-ci.org/boennemann/badges.svg?branch=master)](https://travis-ci.org/boennemann/badges) ![Python](https://img.shields.io/badge/python-2.x-orange.svg)
-![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)
-![Type](https://img.shields.io/badge/Machine-Learning-red.svg) ![Type](https://img.shields.io/badge/Type-Spervised-yellow.svg)
-![Status](https://img.shields.io/badge/Status-Completed-yellowgreen.svg)
+## Gpahic Era Hill University, Dehradun
 
 ### Install
 
@@ -44,10 +39,7 @@ This will open the Jupyter Notebook software and project file in your browser.
 The dataset used in this project is included as `iris.csv`. This dataset is a freely available on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/). This dataset has the following attributes:
 
 **Features**
-1.  `Features`: SepalLengthCm , SepalWidthCm, PetalLengthCm, PetalWidthCm
+-  `Features`: SepalLengthCm , SepalWidthCm, PetalLengthCm, PetalWidthCm
 
-**Target Variable**
-
-4. `Target`: Species
 
 
